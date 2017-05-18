@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yiddi&#39;s coding life</title>
+    <link>https://yiddishkop.github.io/bookshelf/</link>
+    <description>Recent content on yiddi&#39;s coding life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2017 14:03:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://yiddishkop.github.io/bookshelf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>good to great</title>
+      <link>https://yiddishkop.github.io/bookshelf/post/good-to-great/</link>
+      <pubDate>Thu, 18 May 2017 14:03:36 +0800</pubDate>
+      
+      <guid>https://yiddishkop.github.io/bookshelf/post/good-to-great/</guid>
+      <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great.
+你好么，我很好，来自china，good啊，哈哈哈哈
+def fn(x): for var in collection: x++    这是一个比较好的项目，希望可以得到诸位支持  Hello this 2nd head-line Hello this 3nd head-line Hello this 4nd head-line </description>
+    </item>
+    
+  </channel>
+</rss>
